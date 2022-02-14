@@ -7,6 +7,5 @@
 
 ## Groovy Lessons 
 
-1. Clone the repository
-2. Remaining less instructions are in Git-Groovy Usage.md
-
+* All programs are in Markdown `Groovy Tutorials.md`
+* Programs are in folders
